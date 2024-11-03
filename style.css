@@ -1,0 +1,9 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+#feedback{
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333;
+}
